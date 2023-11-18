@@ -7,3 +7,6 @@
 
 3. Текущие данные
 ![get](https://github.com/gwynbleidd102/4.4.9-JS-Core.-Auth-to-API/assets/36127288/2fbe000b-11c5-4f9e-80b5-683ad0eb7de0)
+
+4. Сделал переменные для удобства
+![image](https://github.com/gwynbleidd102/4.4.9-JS-Core.-Auth-to-API/assets/36127288/89649025-16dc-40c9-976e-9ef1cc5535f6)
